@@ -28,11 +28,12 @@ Classify movie reviews as positive or negative using machine learning.
 ## Project Structure
 ## 📁 Project Structure
 
+```
 Sentiment_Analysis/
 ├── imdb_reviews_data.csv        # Dataset
 ├── SentimentAnalysis_IMDB.py    # Main script
-└── README.md                   # Project documentation
-
+└── README.md                    # Project documentation
+```
 ---
 
 ## Workflow
