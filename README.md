@@ -24,12 +24,16 @@ Classify movie reviews as positive or negative using machine learning.
 - matplotlib  
 
 ---
+
+## Project Structure
 ## 📁 Project Structure
-```bash
+
 Sentiment_Analysis/
 ├── imdb_reviews_data.csv        # Dataset
 ├── SentimentAnalysis_IMDB.py    # Main script
 └── README.md                   # Project documentation
+
+---
 
 ## Workflow
 1. Load dataset (CSV)
